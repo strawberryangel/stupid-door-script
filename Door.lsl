@@ -20,6 +20,13 @@
 //
 // 	Yes, this is full of pitfalls. I'm not interested in fixing them right now.
 //
+// 	To build doors, create a tall thin prim to use as a hinge.
+//	This can be invisible if you wish.
+//	Put this script inside.
+//	Add the rest of the door and link them all with the hinge as the root prim.
+//	Set the description as needed.
+//	Voilà. Door.
+//
 //============================================
 // Declare global constants.
 //
